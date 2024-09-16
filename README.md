@@ -11,6 +11,7 @@ Maya is provide the solution based on the information she is trained and always 
 ![Website Screenshot](./preview/homepage.png)
 
 2. Open the chat using this icon on bottom right of the page.
+
 ![ChatBot Icon Screenshot](./preview/chatbotIcon.png)
 
 3. Start chat with Maya and solve your problems.
